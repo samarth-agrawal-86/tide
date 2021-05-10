@@ -1,4 +1,5 @@
-#Using the model
+# Using the model
+
 ## Files provided in the package
 1. requirements.txt
 2. model_training.ipynb
